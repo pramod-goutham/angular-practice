@@ -1,2 +1,2 @@
 # angular-practice
-this is first angular project on git
+this is first angular project on git.
